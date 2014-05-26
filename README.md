@@ -1,6 +1,6 @@
 #On Development
 
-# Elasesino
+# MailXtraktor
 
 Extracts all emails from a file containing any text.
 
